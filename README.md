@@ -174,6 +174,7 @@ API testing is now available with Nightwatch v3. The following functionality can
 2. Response assertions
 3. Viewing API tests in the HTML report
 4. Mock server
+5. This project is tested with BrowserStack
 
 #### [Accessibility Testing](https://nightwatchjs.org/guide/using-nightwatch/accessibility-testing.html)
 
