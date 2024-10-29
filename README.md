@@ -192,7 +192,7 @@ Nightwatch was initially built by [@pineviewlabs](https://github.com/pineviewlab
 
 
 We welcome any and all contributions from the community which can help improve Nightwatch. Please check out [CONTRIBUTING.md](https://github.com/nightwatchjs/nightwatch/blob/main/CONTRIBUTING.md) for more extensive contributing guidelines.
-
+This project is tested with BrowserStack
 ## Licence
 
 
